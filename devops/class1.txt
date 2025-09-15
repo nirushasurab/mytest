@@ -1,0 +1,6 @@
+create file
+add file
+commit chages
+save changes
+edit changes
+create directory
